@@ -20,8 +20,10 @@ complex :: complex(void){
 }
 
 int main(){
-    complex c;
-    c.printnum();
+    complex c1,c2,c3;
+    c1.printnum();
+    c2.printnum();
+    c3.printnum();
     
     return 0;
 }
